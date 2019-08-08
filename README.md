@@ -1,4 +1,5 @@
 ## Agrupamento de dados multidimensionais
+Trabalho referente à disciplina _Linguagens de Programação_, implementado nas linguagens Go, Lua, Haskell, Python e Rust.
 
 ## Descrição do Problema
 Veja o [enunciado](https://github.com/Math-Gomes/Agrupamento-de-dados-multidimensionais/blob/master/Enunciado.pdf).
